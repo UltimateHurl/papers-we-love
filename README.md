@@ -1,20 +1,38 @@
-## Papers We Love
+## ![Papers We Love](http://papers-we-love.github.io/images/logo-top.svg)
+
+**Papers We Love** is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web.
+
+Due to [licenses](https://github.com/papers-we-love/papers-we-love#respect-content-licenses) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
+
+If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them.
 
 ### Chapters
 
 Here are our official chapters. Let us know if you are interested in [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) in your city!
 
 * [New York City](http://www.meetup.com/papers-we-love/)
-* [San Francisco](http://www.meetup.com/papers-we-love-too/)
+* [San Francisco](http://www.meetup.com/papers-we-love-too/) || [Meetup list](https://github.com/papers-we-love/papers-we-love/tree/master/_meetups/SanFrancisco)
 * [Chicago](http://www.meetup.com/Papers-We-Love-Chicago)
 * [London](http://www.meetup.com/papers-we-love-london)
-* [Saint Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
-* [Colorado](http://www.meetup.com/Papers-We-Love-Boulder/)
+* [Colorado](http://papersweloveco.org)
 * [Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Boston](http://www.meetup.com/Papers-We-Love-Boston/)
+* [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
+* [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
+* [Washington, DC](http://www.meetup.com/Papers-We-Love-DC/)
+* [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
+* [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)
+* [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
+* [Hamburg](http://www.meetup.com/Papers-We-Love-Hamburg/)
+* [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
+* [Dallas](http://www.meetup.com/Papers-We-Love-Dallas/)
+* [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
+* [Munich](http://www.meetup.com/Papers-We-Love-Munich/)
+* [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
+* [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -28,6 +46,10 @@ View a complete list of [past presentations](https://github.com/papers-we-love/p
 ## Info
 
 We're looking for pull requests related to papers we should add, better organization of the papers we do have, and/or links to other paper-repos we should point to.
+
+### Other Good Places to Discuss Papers
+
+* [Papers We Love reddit](http://www.reddit.com/r/paperswelove)
 
 ### Other Good Places to Find Papers
 
@@ -80,3 +102,7 @@ We want to help bring academic research closer to practitioners and we strive to
 
 * Directory names are undercased and separated by underscores (example: artificial_intelligence)
 * Paper names are undercased and separated by dashes (example: out-of-the-tar-pit.pdf). Use the full title when possible.
+
+### Copyright
+
+The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love NYC, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.
